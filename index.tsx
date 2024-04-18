@@ -3,7 +3,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 interface SpinnerProps {
-    color: string;
+    color: string
     speed: number;
     size: string
 }
