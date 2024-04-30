@@ -1,4 +1,4 @@
 import Spinner from "./spinner"
 import Dots from "./dots"
 
-export default { Dots, Spinner }
+export { Dots, Spinner }
