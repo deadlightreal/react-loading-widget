@@ -1,8 +1,7 @@
 import './dots.css';
-import React from 'react';
 import PropTypes from 'prop-types';
   
-const Dots = (props) => {
+const Dots = (props: any) => {
   return (
     <div className='React-Dots'>
         <div style={{animationDelay: "0s", width: props.size, height: props.size, backgroundColor: props.color}}></div>
