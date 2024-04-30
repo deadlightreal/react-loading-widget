@@ -4,8 +4,20 @@ The React Loading Component is a lightweight and customizable solution for addin
 
 ## Components
 
-- Spinner
-- Dots
+- ### Dots
+
+```
+import './app.css'
+import { Dots } from "../../index.tsx";
+
+export function App() {
+  return <Dots color="rgba(100, 150, 50, 0.5)" size="25px"/>
+}
+```
+
+## Contributing
+
+- Contributions are welcome! Please fork this repository and submit a pull request.
 
 ## Installation
 
