@@ -10,4 +10,4 @@ The React Loading Component is a lightweight and customizable solution for addin
 ## Installation
 
 ```bash
-npm install
+npm install react-loading-widget
