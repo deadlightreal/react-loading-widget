@@ -14,7 +14,7 @@ export function App() {
   return <Dots color="rgba(100, 150, 50, 0.5)" size="25px"/>
 }
 ```
-[Preview](https://deadlightreal.github.io/react-loading-widget/previews/dots/index.html)
+[Preview](https://deadlightreal.github.io/react-loading-widget/preview/index.html)
 
 ## Contributing
 

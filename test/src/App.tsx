@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import {Dots, Spinner} from "../../package/index"
+import {Dots, Spinner} from "react-loading-widget"
 
 export default function App() {
 
