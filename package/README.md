@@ -20,6 +20,9 @@ export function App() {
 
 - Contributions are welcome! Please fork this repository and submit a pull request.
 
+[Npm](https://www.npmjs.com/package/react-loading-widget)
+[Github](https://github.com/deadlightreal/react-loading-widget)
+
 ## Installation
 
 ```bash
