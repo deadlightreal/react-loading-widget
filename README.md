@@ -5,15 +5,8 @@ The React Loading Component is a lightweight and customizable solution for addin
 ## Components
 
 - ### Dots
+- ### Spinner
 
-```
-import './app.css'
-import { Dots } from "../../index.tsx";
-
-export function App() {
-  return <Dots color="rgba(100, 150, 50, 0.5)" size="25px"/>
-}
-```
 [Preview](https://deadlightreal.github.io/react-loading-widget/preview/index.html)
 
 ## Contributing
@@ -21,7 +14,12 @@ export function App() {
 - Contributions are welcome! Please fork this repository and submit a pull request.
 
 [Npm](https://www.npmjs.com/package/react-loading-widget)
+
 [Github](https://github.com/deadlightreal/react-loading-widget)
+
+## Required Fields:
+  - Dots: Speed: number, Size: string, Color: string.
+  - Spinner: Speed: number, Size: string, Color: string.
 
 ## Installation
 
